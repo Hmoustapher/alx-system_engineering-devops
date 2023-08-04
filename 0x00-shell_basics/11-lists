@@ -1,2 +1,2 @@
 #!/bin/bash
-./change_to_previous_directory.sh
+mkdir -m 511 my_dir
