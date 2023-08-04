@@ -1,2 +1,2 @@
-$!!/bin/bash
+#!/bin/bash
 ./change_to_previous_directory.sh
