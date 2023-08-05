@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R +x .
+subdirectories=$(find . -type d ! -path '*/\.*')
