@@ -1,2 +1,2 @@
 #!/bin/bash
-file="iacta" last_line=$(tail -n 1 "$file")
+find . -type f -name "*.js" -delete echo "All .js files have been deleted."
