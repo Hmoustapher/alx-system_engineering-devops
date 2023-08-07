@@ -1,0 +1,2 @@
+#!/bin/bash
+decoded_message=""; while IFS= read -r line; do decoded_message+=$(echo "$line" | cut -c 1); done; echo -e "$decoded_message"
