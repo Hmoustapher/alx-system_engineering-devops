@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Apple and Carrot" | tr 'Ac' 'Ze'
+
