@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Total number of directories and subdirectories: $count"
