@@ -1,2 +1,2 @@
 #!/bin/bash
-read -p "Enter input: " input; cleaned_input=$(echo "$input" | tr -d 'cC'); echo "Cleaned input: $cleaned_input"
+tr -d cC
